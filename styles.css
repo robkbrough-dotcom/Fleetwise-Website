@@ -42,8 +42,9 @@ header {
   align-items: center;
 }
 .logo img {
-  width: 48px;
-  margin-right: 0.5rem;
+  width: 180px;
+  margin: 0 auto;
+  display: block;
 }
 .menu-toggle {
   background: none;
